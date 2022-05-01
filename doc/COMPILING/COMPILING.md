@@ -156,6 +156,7 @@ Dependencies:
   * freetype
   * build essentials
   * libsdl2-mixer-dev - Used if compiling with sound support.
+  * sdl-image
 
 Install:
 
