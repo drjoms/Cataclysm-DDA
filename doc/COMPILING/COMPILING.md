@@ -67,7 +67,7 @@ Rough list based on building on Arch:
   * General: `gcc-libs`, `glibc`, `zlib`, `bzip2`
   * Optional: `gettext`
   * Curses: `ncurses`
-  * Tiles: `sdl2`, `sdl2_image`, `sdl2_ttf`, `sdl2_mixer`, `freetype2`
+  * Tiles: `sdl2`, `sdl2_image` with PNG support compiled in, `sdl2_ttf`, `sdl2_mixer`, `freetype2`
 
 E.g. for curses build on Debian and derivatives you'll also need `libncurses5-dev` or `libncursesw5-dev`.
 
